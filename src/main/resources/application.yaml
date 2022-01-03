@@ -1,0 +1,9 @@
+# 应用名称
+spring.application.name: redis_practice
+
+spring:
+  redis:
+    database: 0
+    host: 121.4.132.51
+    port: 6390
+    password: Momincong2000714
